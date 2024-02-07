@@ -1,3 +1,7 @@
+#Jay Gaines
+#CIS261
+#Week 6
+
 def get_price():
     while True:
         try:
